@@ -29,8 +29,8 @@ import numpy as np
 ```
 
 ## Documentation and Resources
-- (Official NumPy Documentation)[https://numpy.org/doc/]
-- (NumPy User Guide) [https://numpy.org/doc/stable/user/]
-- (NumPy Reference)[https://numpy.org/doc/stable/reference/]
+- [Official NumPy Documentation](https://numpy.org/doc/)
+- [NumPy User Guide](https://numpy.org/doc/stable/user/)
+- [NumPy Reference](https://numpy.org/doc/stable/reference/)
 
 Author - Aayush4r
